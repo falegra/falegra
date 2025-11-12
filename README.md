@@ -2,6 +2,10 @@
 ---
 ## 👨‍💻 Sobre Mí
 
+- 🎓 **Ingeniero en Ciencias Informáticas** - Universidad de las Ciencias Informáticas
+- 🚀 **Programador Autodidacta** con pasión por el aprendizaje continuo
+- 🐧 **Usuario de Linux** - Experiencia en entornos Unix/Linux
+- 💡 **Entusiasta del código limpio** y las mejores prácticas de desarrollo
 
 <!--
 **falegra/falegra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
