@@ -7,8 +7,12 @@
 - 💡 **Entusiasta del código limpio** y las mejores prácticas de desarrollo
 ---
 ## 🛠️ Skills
-### Frontend
+### FrontEnd
 ![Nextjs, Tailwind CSS](https://skillicons.dev/icons?i=nextjs,tailwind)
+### BackEnd
+![NodeJs, ExpressJs, NestJs](https://skillicons.dev/icons?i=nodejs,express,nestjs)
+### Bases de datos
+![MySQL, PostgresSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
 
 
