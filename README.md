@@ -9,7 +9,7 @@
 ---
 ## 🛠️ Skills
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
 
 
 
