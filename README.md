@@ -13,7 +13,10 @@
 ![NodeJs, ExpressJs, NestJs](https://skillicons.dev/icons?i=nodejs,express,nestjs)
 ### Bases de datos
 ![MySQL, PostgresSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
-
+### Lenguajes de programación
+![C++, Java, JavaScript](https://skillicons.dev/icons?i=cpp,java,js)
+### Otros
+![VS Code, Docker, Nginx, Linux, Firebase](https://skillicons.dev/icons?i=vscode,docker,nginx,linux,firebase)
 
 
 
