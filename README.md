@@ -6,7 +6,10 @@
 - 🚀 **Programador Autodidacta** con pasión por el aprendizaje continuo
 - 🐧 **Usuario de Linux** - Experiencia en entornos Unix/Linux
 - 💡 **Entusiasta del código limpio** y las mejores prácticas de desarrollo
-
+---
+## 🛠️ Skills
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <!--
 **falegra/falegra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
