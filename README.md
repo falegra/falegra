@@ -1,5 +1,4 @@
 # Fidel Alejandro Legra Ramirez
----
 ## 👨‍💻 Sobre Mí
 
 - 🎓 **Ingeniero en Ciencias Informáticas** - Universidad de las Ciencias Informáticas
