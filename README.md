@@ -9,8 +9,7 @@
 ---
 ## 🛠️ Skills
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
-![NextJs, Tailwind](https://skillicons.dev?i=nextjs,tailwind)
+![HTML, CSS, Tailwind CSS, Sass, Javascript, Typescript, React, Inertia](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,inertia)
 
 
 
