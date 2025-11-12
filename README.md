@@ -10,6 +10,7 @@
 ## 🛠️ Skills
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
+![NextJs, Tailwind](https://skillicons.dev?i=nextjs,tailwind)
 
 
 
