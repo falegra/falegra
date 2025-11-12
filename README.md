@@ -1,5 +1,8 @@
-## Hi there 👋
+# Fidel Alejandro Legra Ramirez
 
+---
+
+## 👨‍💻 Sobre Mí
 <!--
 **falegra/falegra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
