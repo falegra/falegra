@@ -14,7 +14,7 @@
 ### Bases de datos
 ![MySQL, PostgresSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 ### Lenguajes de programación
-![C++, Java, JavaScript](https://skillicons.dev/icons?i=cpp,java,js)
+![C++, Java, JavaScript, TypeScript](https://skillicons.dev/icons?i=cpp,java,js,typescript)
 ### Otros
 ![VS Code, Docker, Nginx, Linux, Firebase](https://skillicons.dev/icons?i=vscode,docker,nginx,linux,firebase)
 
