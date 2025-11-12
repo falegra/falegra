@@ -9,7 +9,12 @@
 ---
 ## 🛠️ Skills
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+
+
+
 <!--
 **falegra/falegra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
