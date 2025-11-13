@@ -15,7 +15,7 @@
 ### Lenguajes de programación
 ![C++, Java, JavaScript, TypeScript](https://skillicons.dev/icons?i=cpp,java,js,typescript)
 ### Otros
-![VS Code, Docker, Nginx, Linux, Firebase, Google Console, Git, GitHub, GitHub Actions, GitLab, Postman](https://skillicons.dev/icons?i=vscode,docker,nginx,linux,firebase,gcp,git,github,githubactions,gitlab,postman)
+![VS Code, Docker, Nginx, Linux, Firebase, Google Console, Git, GitHub, GitHub Actions, GitLab, Postman](https://skillicons.dev/icons?i=vscode,docker,nginx,linux,firebase,gcp,git,github,githubactions,gitlab,postman&perline=5)
 
 
 
