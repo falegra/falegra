@@ -17,7 +17,7 @@
 ### Otros
 ![VS Code, Docker, Nginx, Linux, Firebase, Google Console, Git, GitHub, GitHub Actions, GitLab, Postman, Kafka](https://skillicons.dev/icons?i=vscode,docker,nginx,linux,firebase,gcp,git,github,githubactions,gitlab,postman,kafka&perline=5)
 
-Más sobre mi ![Fidel Legra](https://fidellegra.th3npc.org)
+Más sobre mi [Fidel Legra](https://fidellegra.th3npc.org)
 
 
 <!--
